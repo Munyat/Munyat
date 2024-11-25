@@ -20,10 +20,30 @@ Hello! I’m Brian Kipkirui Cheruiyot, a **Full-Stack Developer** with a strong 
 
 ---
 
+## 🌟 Skills Visualization
+
+**Frontend Development:**
+![Frontend Badge](https://img.shields.io/badge/Frontend-80%25-blue)
+
+**Backend Development:**
+![Backend Badge](https://img.shields.io/badge/Backend-75%25-green)
+
+**Databases:**
+![Databases Badge](https://img.shields.io/badge/Databases-70%25-yellow)
+
+**Tools:**
+![Tools Badge](https://img.shields.io/badge/Tools-85%25-orange)
+
+**Finance Knowledge:**
+![Finance Badge](https://img.shields.io/badge/Finance-80%25-lightgrey)
+
+---
+
 ## 🌟 Featured Projects  
 
 ### 1️⃣ **[Store REST API](https://store-api-xoxt.onrender.com/swagger-ui)**  
 **GitHub:** [Store REST API Repository](https://github.com/Munyat/store_api)  
+**Live Demo:** [Store REST API Demo](https://store-api-xoxt.onrender.com/swagger-ui)  
 **Tech Stack:** Flask, PostgreSQL, JWT Authentication  
 - Developed a secure and scalable RESTful API for managing store inventory.  
 - Integrated **Swagger UI** for easy documentation and testing.  
@@ -31,12 +51,14 @@ Hello! I’m Brian Kipkirui Cheruiyot, a **Full-Stack Developer** with a strong 
 
 ### 2️⃣ **[Recipe Haven](https://recipehaven-silk.vercel.app/)**  
 **GitHub:** [Recipe Haven Repository](https://github.com/NgunyiGachie/recipe-haven)  
+**Live Demo:** [Recipe Haven Demo](https://recipehaven-silk.vercel.app/)  
 **Tech Stack:** React, Tailwind CSS, Flask  
 - Built a user-friendly platform for managing and sharing recipes.  
 - Implemented dynamic search functionality and user authentication.  
 
 ### 3️⃣ **[Travel List](https://majestic-parfait-bd5795.netlify.app/)**  
 **GitHub:** [Travel List Repository](https://github.com/Munyat/travel-list)  
+**Live Demo:** [Travel List Demo](https://majestic-parfait-bd5795.netlify.app/)  
 **Tech Stack:** HTML, CSS, JavaScript  
 - Designed an interactive UI for managing travel destinations.  
 - Focused on intuitive design and seamless user experience.
@@ -65,4 +87,5 @@ Hello! I’m Brian Kipkirui Cheruiyot, a **Full-Stack Developer** with a strong 
 ---
 
 Feel free to clone, fork, or contribute to any of my projects. I’m always excited to collaborate with like-minded developers to create something amazing!
+
 
