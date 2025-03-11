@@ -63,6 +63,17 @@ Hello! I’m Brian Kipkirui Cheruiyot, a **Full-Stack Developer** with a strong 
 - Designed an interactive UI for managing travel destinations.  
 - Focused on intuitive design and seamless user experience.
 
+### 3️⃣ **[VanLife Demo](https://brian-van-life.netlify.app)**  
+**GitHub:** [VanLife Repository](https://github.com/Munyat/van-life)  
+**Live Demo:** [VanLife Demo](https://brian-van-life.netlify.app)  
+**Tech Stack:** HTML, CSS, JavaScript  
+- Developed a dynamic frontend using React.js and Redux for efficient state and data management.
+- Styled with CSS Modules, ensuring a responsive and modern UI.
+- Configured Vite for a fast and optimized development experience.
+- Integrated a backend server with Mirage.js, handling API requests efficiently.
+- Deployed the application on Netlify for high availability and performance.
+
+
 ---
 
 ## 📈 My Goals  
