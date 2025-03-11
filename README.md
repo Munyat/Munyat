@@ -11,8 +11,8 @@ Hello! I’m Brian Kipkirui Cheruiyot, a **Full-Stack Developer** with a strong 
 ---
 
 ## 🛠 Skills & Expertise  
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
-- **Backend:** Python (Flask), Node.js  
+- **Frontend:** JavaScript, HTML5, CSS, React, Redux, Tailwind CSS, CSS Modules, Styled Components
+- **Backend:**  Python (Flask), Node.js, Express.js, RESTful API Design
 - **Databases:** PostgreSQL, MongoDB, SQLite  
 - **Tools:** Git/GitHub, Docker, Linux, Swagger UI  
 - **Finance Knowledge:** Data Analysis, Financial Modeling, Reporting  
