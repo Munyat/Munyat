@@ -56,12 +56,14 @@ Hello! I’m Brian Kipkirui Cheruiyot, a **Full-Stack Developer** with a strong 
 - Built a user-friendly platform for managing and sharing recipes.  
 - Implemented dynamic search functionality and user authentication.  
 
-### 3️⃣ **[Travel List](https://majestic-parfait-bd5795.netlify.app/)**  
-**GitHub:** [Travel List Repository](https://github.com/Munyat/travel-list)  
-**Live Demo:** [Travel List Demo](https://majestic-parfait-bd5795.netlify.app/)  
+### 3️⃣ **[ChatBot Demo](https://ai-chat-bot-jgnz.vercel.app/)**  
+**GitHub:** [ChatBot Repository](https://github.com/Munyat/AI-Chat-Bot)  
+**Live Demo:** [ChatBot Demo](https://ai-chat-bot-jgnz.vercel.app/)  
 **Tech Stack:** HTML, CSS, JavaScript  
-- Designed an interactive UI for managing travel destinations.  
-- Focused on intuitive design and seamless user experience.
+- Developed an interactive AI-powered chatbot using React, and Google Generative AI API.
+- Implemented real-time chat functionality with local storage for persistent chat history.
+- Optimized chat rendering performance and improved UI responsiveness with CSS and event-driven updates.
+- Integrated Emoji Picker for enhanced user experience and state management using React Hooks.
 
 ### 4️⃣ **[VanLife Demo](https://brian-van-life.netlify.app)**  
 **GitHub:** [VanLife Repository](https://github.com/Munyat/van-life)  
