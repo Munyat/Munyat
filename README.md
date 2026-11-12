@@ -31,5 +31,5 @@ My interests extend into cloud infrastructure, containerisation and the engineer
 ### Connect
 
 - GitHub: https://github.com/Munyat
-- LinkedIn: Add your LinkedIn profile URL
+- LinkedIn: https://www.linkedin.com/in/brian-kipkirui-cheruiyot/
 - Email: briancheruiyotkipkirui@gmail.com
